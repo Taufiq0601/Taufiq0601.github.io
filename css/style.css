@@ -1,0 +1,18 @@
+.jumbotron img {
+  width: 200px;
+  border: 5px solid #555;
+}
+hr {
+  width: 250px;
+  border-top: 3px solid #555;
+}
+section {
+  height: 400px;
+}
+.portofolio {
+  background-color: #eee;
+}
+img {
+  height: 200px;
+  width: 200px;
+}
